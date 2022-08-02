@@ -12,9 +12,7 @@ const Home = () => {
     <>
       <Float />
       <Navbar />
-
       <Carousel />
-
       <Categories />
       <Feature />
       <Products />

@@ -129,7 +129,7 @@ const Footer = () => {
       >
         <Text>
           {" "}
-          © {new Date().getFullYear()} RN-CODERS Templates. All rights reserved
+          © {new Date().getFullYear()} RN-CODER Templates. All rights reserved
         </Text>
       </Container>
     </Box>
